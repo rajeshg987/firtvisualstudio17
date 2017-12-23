@@ -12,5 +12,11 @@ namespace myfirstgitvsproj.Controllers
         {
             return View();
         }
+
+
+        public IActionResult getOutage()
+        {
+            return View();
+        }
     }
 }
